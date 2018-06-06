@@ -4,7 +4,7 @@ by Stephen Zhang
 
 Code package to simulate the consequences of evidence accumulation during courtship decision.
 
-Scrits:
+Scripts:
 
 accum_trials gives a simple sample of 5 flies accumulating evidence to start courtship
 
@@ -16,3 +16,4 @@ Functions:
 tapevid - the main function for evidence accumulation (1 female)
 tapevid_2fly - a function to simulate evidence-accumulators' performance in a 2-female choice assay
 tapevid_2fly_coin - a function to simulate coin-flippers' performance in a 2-female choice assay
+confint2 - a function to calculate 95% confidence interval from simulated data
